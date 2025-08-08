@@ -15,6 +15,19 @@ This template helps you manage bills, extra expenses, income, and savings in one
 
 ---
 
+## Images
+
+# Budget Tracker Template
+![Budget Tracker Template](Template_Image.png)
+
+# Main Budget Tracker 
+![Main Budget Tracker](Budget_Example-1.png)
+
+# Live Update Example
+![Live Update Example](Budget_Example-2.png)
+
+---
+
 ## How to Use
 1. **Download the file**:
    - [Excel Version (.xlsx)](./Budget_Tracker.xlsx)
