@@ -43,6 +43,41 @@ This template helps you manage bills, extra expenses, income, and savings in one
 
 ---
 
+## 📌 Note on Checkboxes
+
+If you view this file directly on GitHub, checkbox columns will show as **TRUE/FALSE** text.  
+This happens because GitHub’s preview does not render interactive elements like Google Sheets checkboxes.
+
+### ✅ Use the Interactive Google Sheets Version
+<a href="https://docs.google.com/spreadsheets/d/1xqk1eQvG_oXtJ5ieQLGirnv9Bh6QHVfT/copy">
+  <img src="https://img.shields.io/badge/Open%20in-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Open in Google Sheets">
+</a>
+
+*(Click the button above, then select **Make a copy** to save it to your own Google Drive.)*
+
+---
+
+### 💡 For Excel Users
+1. **Download** the `.xlsx` file from this repository.
+2. Open in Excel — checkboxes will appear as TRUE/FALSE text (normal).
+3. To add native Excel checkboxes:
+   - Go to the **Developer** tab  
+     *(If hidden: File → Options → Customize Ribbon → check **Developer**.)*
+   - In **Controls**, click **Insert** → **Form Controls** → **Checkbox**.
+   - Draw the checkbox in the desired cell.
+   - Right-click the checkbox → **Format Control…** → **Cell link** → select the TRUE/FALSE cell you want it to control (e.g., `D3`).
+   - Copy/paste that checkbox down the column to reuse the linkage pattern (adjust cell links as needed).
+
+> ℹ️ Tip: Keep the TRUE/FALSE cells (linked cells) hidden or off to the side and show a companion display column with a formula like `=IF(D3, "✅ Paid", "—")` so GitHub’s preview still looks clean.
+
+---
+
+### 🔗 Direct Copy Link (backup)
+If the button above doesn’t work for any reason, use this link:
+https://docs.google.com/spreadsheets/d/1xqk1eQvG_oXtJ5ieQLGirnv9Bh6QHVfT/copy
+
+---
+
 ## Tips
 - You can create **named ranges** in Google Sheets to make formulas future-proof
 - To avoid breaking formulas, insert instruction rows **outside** the main data tables
