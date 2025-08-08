@@ -28,7 +28,7 @@ This template helps you manage bills, extra expenses, income, and savings in one
 
 ---
 
-## How to Use
+## How to Download
 1. **Download the file**:
    - [Excel Version (.xlsx)](./Budget_Tracker.xlsx)
    - Or upload to Google Sheets for online use
@@ -52,9 +52,9 @@ This happens because GitHub’s preview does not render interactive elements lik
 This template will create a **personal editable copy** in your own Google Sheets account.  
 All checkboxes, formatting, and formulas are preserved.
 
-<a href="https://docs.google.com/spreadsheets/d/1xqk1eQvG_oXtJ5ieQLGirnv9Bh6QHVfT/copy">
-  <img src="https://img.shields.io/badge/Open%20in-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Open in Google Sheets">
-</a>
+### 🔗 Direct Copy Link
+
+https://docs.google.com/spreadsheets/d/1ep4sHZEiWyKcK93uzjOHFzQGfhRNKhWJJqf0f22sO6Y/edit?usp=sharing
 
 **How to use:**
 1. Click the green button above.
@@ -78,9 +78,53 @@ All checkboxes, formatting, and formulas are preserved.
 
 ---
 
-### 🔗 Direct Copy Link (backup)
-If the button above doesn’t work for any reason, use this link:
-https://docs.google.com/spreadsheets/d/1ep4sHZEiWyKcK93uzjOHFzQGfhRNKhWJJqf0f22sO6Y/edit?usp=sharing
+📋 How to Use This Budget Tracker
+1️⃣ Bills & Expenses Sections
+Add bills/expenses manually in their respective tables:
+
+Description → Type the bill or expense name (e.g., Rent, Car Payment, Groceries).
+
+Date → Enter the due date.
+
+Amount → Enter the amount due.
+
+Check # → Enter the paycheck number (1 or 2) that will cover this bill/expense.
+
+Paid Checkbox → Check this box when the bill or expense is paid.
+
+These sections automatically update totals in the Fixed and Live summary areas.
+
+2️⃣ Fixed Totals (Auto-Calculated)
+You do not need to edit formulas in the Fixed Totals section.
+
+This shows the total amount of all bills/expenses for each paycheck before they are marked as paid.
+
+The only manual step here is entering new items into the Bills and Extra Expenses lists above.
+
+3️⃣ Fixed Database (Paycheck Data)
+In the Fixed Database section:
+
+Paycheck Date → Enter the actual date you receive the paycheck.
+
+Pay → Enter your paycheck amount.
+
+Debt → Enter any debt/advances that will be taken out of that paycheck.
+
+Everything else in this section will update automatically based on your bills and expenses.
+
+4️⃣ Live Totals (Auto-Calculated)
+Live totals show what’s still owed for the current paycheck after marking items as paid.
+
+These update automatically when you check the Paid box for any bill/expense.
+
+5️⃣ Manual Updates in the Live Totals Section
+Balance (Checking Account) → Enter your current checking account balance.
+
+Extra Funds → If you have any extra money available (e.g., from savings, overtime, or other income), enter it here.
+
+Everything else in the live totals is automatic — no manual entry needed.
+
+✅ Tip: As long as you keep your bills/expenses updated with amounts, dates, and paycheck numbers, and mark them as paid, this tracker will handle all the calculations for you.
 
 ---
 
