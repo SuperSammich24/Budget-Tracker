@@ -49,13 +49,19 @@ If you view this file directly on GitHub, checkbox columns will show as **TRUE/F
 This happens because GitHub’s preview does not render interactive elements like Google Sheets checkboxes.
 
 ### ✅ Use the Interactive Google Sheets Version
+This template will create a **personal editable copy** in your own Google Sheets account.  
+All checkboxes, formatting, and formulas are preserved.
+
 <a href="https://docs.google.com/spreadsheets/d/1xqk1eQvG_oXtJ5ieQLGirnv9Bh6QHVfT/copy">
   <img src="https://img.shields.io/badge/Open%20in-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Open in Google Sheets">
 </a>
 
-*(Click the button above, then select **Make a copy** to save it to your own Google Drive.)*
+**How to use:**
+1. Click the green button above.
+2. Google Sheets will prompt you with *"Would you like to make a copy?"* — click **Make a copy**.
+3. Your copy is now fully editable and saved in your Google Drive.
+4. You can rename it and start entering your own bills and expenses.
 
----
 
 ### 💡 For Excel Users
 1. **Download** the `.xlsx` file from this repository.
@@ -74,7 +80,7 @@ This happens because GitHub’s preview does not render interactive elements lik
 
 ### 🔗 Direct Copy Link (backup)
 If the button above doesn’t work for any reason, use this link:
-https://docs.google.com/spreadsheets/d/1xqk1eQvG_oXtJ5ieQLGirnv9Bh6QHVfT/copy
+https://docs.google.com/spreadsheets/d/1ep4sHZEiWyKcK93uzjOHFzQGfhRNKhWJJqf0f22sO6Y/edit?usp=sharing
 
 ---
 
