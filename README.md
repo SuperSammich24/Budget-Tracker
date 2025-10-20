@@ -54,7 +54,7 @@ All checkboxes, formatting, and formulas are preserved.
 
 ### 🔗 Direct Copy Link
 
-https://docs.google.com/spreadsheets/d/1ep4sHZEiWyKcK93uzjOHFzQGfhRNKhWJJqf0f22sO6Y/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1MX4Iuvjrk2uhIRapVr5MSTLsDdvkyJdPRCBPZd1ETiM/edit?usp=sharing
 
 **How to use:**
 1. Click the green button above.
